@@ -2,6 +2,8 @@
 
 A production-ready semantic caching system built with .NET 10, implementing intelligent response caching using vector embeddings and cosine similarity. This project demonstrates the integration of Azure OpenAI, PostgreSQL, Redis, and Microsoft's Agent Framework for building scalable, personalized AI applications.
 
+> Move to https://github.com/thangchung/agent-engineering-experiment/tree/main/semantic-cache-dotnet
+
 ## 🚀 Features
 
 ### Core Capabilities
